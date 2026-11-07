@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What are the college timings?",
+        "answer": "The college is open from 9:00 AM to 4:30 PM on working days."
+    },
+    {
+        "question": "What time does the college start?",
+        "answer": "The college starts at 9:00 AM on working days."
+    },
+    {
+        "question": "How can I apply for admission?",
+        "answer": "You can apply for admission through the college's official admission portal."
+    },
+    {
+        "question": "What documents are required for admission?",
+        "answer": "Students generally need their academic certificates, identity proof, photographs, and other documents specified by the college."
+    },
+    {
+        "question": "What courses does the college offer?",
+        "answer": "The college offers undergraduate and postgraduate programs in various fields. Please check the official college website for the current list of courses."
+    },
+    {
+        "question": "How can I pay my college fees?",
+        "answer": "College fees can be paid through the designated online payment portal or at the college office."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library is generally open during regular college working hours. Students should check the library notice board for updated timings."
+    },
+    {
+        "question": "Can students borrow books from the library?",
+        "answer": "Yes, registered students can borrow books from the library using their valid student ID."
+    },
+    {
+        "question": "How do I get a library card?",
+        "answer": "Students can obtain a library card by registering with the college library using their student ID."
+    },
+    {
+        "question": "Does the college provide hostel facilities?",
+        "answer": "Hostel facilities may be available for eligible students. Contact the college administration for availability and admission details."
+    },
+    {
+        "question": "How can I apply for hostel accommodation?",
+        "answer": "Students can apply for hostel accommodation through the college hostel office or the designated hostel application process."
+    },
+    {
+        "question": "Does the college have a canteen?",
+        "answer": "Yes, the college has a canteen that provides food and refreshments to students and staff."
+    },
+    {
+        "question": "How can I contact the college office?",
+        "answer": "You can contact the college office through the official phone number or email address provided on the college website."
+    },
+    {
+        "question": "How can I get my student ID card?",
+        "answer": "Student ID cards are issued by the college administration after the admission and registration process is completed."
+    },
+    {
+        "question": "What should I do if I lose my ID card?",
+        "answer": "Report the lost ID card to the college administration and request a replacement card."
+    },
+    {
+        "question": "Does the college provide scholarships?",
+        "answer": "Scholarships may be available based on eligibility, academic performance, government schemes, or other criteria."
+    },
+    {
+        "question": "How can I apply for a scholarship?",
+        "answer": "Students can apply for eligible scholarships through the college scholarship office or the relevant scholarship portal."
+    },
+    {
+        "question": "How can I check my attendance?",
+        "answer": "Students can check their attendance through the college student portal or by contacting their department."
+    },
+    {
+        "question": "What is the minimum attendance requirement?",
+        "answer": "The minimum attendance requirement depends on the college and university regulations. Students should check the applicable academic rules."
+    },
+    {
+        "question": "Where can I find the exam timetable?",
+        "answer": "The exam timetable is usually published on the college notice board and official website."
+    },
+    {
+        "question": "How can I register for exams?",
+        "answer": "Students can register for examinations through the prescribed examination registration process before the deadline."
+    },
+    {
+        "question": "What should I do if I miss an exam?",
+        "answer": "Contact the examination department as soon as possible and explain the reason for missing the examination."
+    },
+    {
+        "question": "Does the college provide placement assistance?",
+        "answer": "Yes, the college placement department provides career guidance and placement assistance to eligible students."
+    },
+    {
+        "question": "How can I register for placement activities?",
+        "answer": "Eligible students can register for placement activities through the college placement department or placement portal."
+    },
+    {
+        "question": "Are internships available for students?",
+        "answer": "Students can explore internship opportunities through the placement department, college notifications, and external organizations."
+    }
+]
